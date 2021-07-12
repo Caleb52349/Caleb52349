@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineer student with experience in making website design projects. Developing creative and functional UI/UX designs using Adobe XD, database designs, creating numerous simple to complex queries. Possess in-depth knowledge of database development, MSSQL Server, Software development, object-oriented programming, Java, and C# to make functional-able applications.
 
-- 🔭 I’m currently working on a Portfolio Website
+- 🔭 I’m currently working on a Messaging App Ui/UX
 - 🌱 I’m currently learning Flutter and Darts
 - 👯 I’m looking to collaborate on a potential project
 - 🤔 I’m looking for help with codes/site redesign

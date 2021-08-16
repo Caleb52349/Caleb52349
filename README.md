@@ -27,6 +27,7 @@ Skills & Speciality
 - GitHub
 - Self Learner
 - Cisco Packet Tracer
+- UI/UX 
 
 ## Websites
 - https://caleb52349.github.io/NittyGritty/

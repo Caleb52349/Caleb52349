@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineer student with experience in making website design projects. Developing creative and functional UI/UX designs using Adobe XD, database designs, creating numerous simple to complex queries. Possess in-depth knowledge of database development, MSSQL Server, Software development, object-oriented programming, Java, and C# to make functional-able applications.
 
 - 🔭 I’m currently working on my project tracking into component challenge on frontendmentor.io (https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e)
-- 🌱 I’m currently learning Flutter and Darts
+- 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate on a potential project
 - 🤔 I’m looking for help with codes/site redesign
 - 💬 Ask me about Sql ,OOP and Project ideas and how to get started
@@ -27,7 +27,8 @@ Skills & Speciality
 - GitHub
 - Self Learner
 - Cisco Packet Tracer
-- UI/UX 
+- UI/UX
+- Saleforce 
 
 ## Websites
 - https://caleb52349.github.io/NittyGritty/

@@ -33,6 +33,10 @@ Skills & Speciality
 ## Websites
 - https://caleb52349.github.io/NittyGritty/
 - https://caleb52349.github.io/Music-App-Website/
+- https://caleb52349.github.io/Activity-Card/
+- https://caleb52349.github.io/project-tracking-intro-component-master/
+- https://caleb52349.github.io/clipboard-landing-page-master/
+- https://ip-address-tracker-bycaleb.netlify.app/
 
 ## Portfolio Website (Working In Progress)
 https://cdanso-portfolio.netlify.app/
